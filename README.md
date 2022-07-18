@@ -1,8 +1,8 @@
-# Honey_pot-Lottery
-This is one kind of Lottery system.
+# 🍯💲Honey_pot-Lottery💲🍯
+🍯This is one kind of 💲Lottery system💲.🍯
 Here's how it works:
-- Players pay an entry fee of 0.05 $SOL for a golden ticket.
-- 0.01 $SOL is taken from this fee and deposited into the community treasury 
+- Players pay an entry fee of 0.05 💲SOL for a golden ticket.
+- 0.01 💲SOL is taken from this fee and deposited into the community treasury 
 - Players stake their golden ticket for the duration of the Pot.
 - When the Pot ends, the wallet containing the winning ticket receives the contents of the pot.
 - 10% of every pot is deposited into the community treasury. There are daily, weekly, and monthly pots.
