@@ -1,4 +1,4 @@
-# Honey_pot
+# Honey_pot-Lottery
 This is one kind of Lottery system.
 Here's how it works:
 - Players pay an entry fee of 0.05 $SOL for a golden ticket.
@@ -12,6 +12,22 @@ Here's how it works:
 - Install `node` and `yarn`
 - Install `ts-node` as global command
 - Confirm the solana wallet preparation: `/home/fury/.config/solana/id.json` in test case
+
+
+### Before that in your PC solana programs have to be installed with this version
+- $ solana --version// solana-cli 1.8.16 (src:23af37fe; feat:1886190546)
+- $ anchor --version// anchor-cli 0.20.1
+
+//use avm to install and use desired version: `cargo install --git https://github.com/project-serum/anchor avm --locked --force` 
+
+see [here](https://book.anchor-lang.com/getting_started/installation.html?highlight=avm#installing-using-anchor-version-manager-avm-recommended)
+
+- $ node --version // v16.14.0
+- $ yarn --version // 1.22.17 
+
+// use `npm install --global yarn@1.22.17`
+
+- $ cargo --version // cargo 1.59.0 (49d8809dc 2022-02-10)//`rustup install 1.59.0` and then if needed `rustup override set 1.59.0`
 
 ## Usage
 - Main script source for all functionality is here: `/cli/script.ts`
